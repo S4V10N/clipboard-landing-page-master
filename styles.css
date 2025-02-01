@@ -283,7 +283,7 @@ footer p:active,footer p:hover{
     }
     .footer-text{
         width: 40rem;
-        transform: translateX(-30rem);
+        transform: translateX(-20rem);
         margin: 0;
         height: 8rem;
         display: flex;
